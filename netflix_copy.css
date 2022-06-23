@@ -614,6 +614,10 @@ div#loginPage {
     visibility: hidden;
 }
 
+.btnForgotPassword {
+   visibility: hidden;
+}
+
 #loginPage .inputContainer {
   background: #333;
   border-radius: var(--rounding);
